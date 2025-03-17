@@ -2,7 +2,7 @@
 
 int main()
 {
-	int a=200;
+	int a1=200;
 	
 	while (a%17!=0)
 	{
